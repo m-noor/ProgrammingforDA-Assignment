@@ -1,4 +1,4 @@
-# ProgrammingforDA Assignment
+# Programming for Data Analysis Assignment
 
 Content of this repository:
 
