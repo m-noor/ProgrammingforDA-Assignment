@@ -12,3 +12,4 @@ This notebook relies on the following libraries, so please ensure you have these
 1. Numpy
 1. Matplotlib
 1. Plotly
+1. Scipy
