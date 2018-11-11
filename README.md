@@ -7,6 +7,7 @@ This repository is concerned with the use of Python `numpy.random` package. It c
 1. [README.md](README.md) (this file)
 1. [ProgrammingforDA-Assignment.ipynb](ProgrammingforDA-Assignment.ipynb) - a Jupyter Notebook written in Python
 1. [ProgrammingforDA-Assignment.pdf](ProgrammingforDA-Assignment.pdf) - PDF version of the Notebook. Note this is for reference only as the notebook is not accurately reproducible through conversion to PDF.
+1. [ProgrammingforDA-Assignment.html](ProgrammingforDA-Assignment.html) - HTML version of the Notebook. Note this is for reference only as the notebook is not accurately reproducible through conversion to HTML, although some interactivity is still retained as Plotly uses JavaScript natively.
 1. [Programmingfor-DA-assignment-instructions.pdf](Programmingfor-DA-assignment-instructions.pdf) - instructions for the assignment, for future reference only
 
 ### Pre-requisites for running the notebook
